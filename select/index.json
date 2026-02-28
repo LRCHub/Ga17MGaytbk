@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラナウェイ・ベイビー",
+  "base_artist": "ブルーノ・マーズ",
+  "createdAt": "2026-02-28T00:51:27.862154Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Runaway_Baby_Bruno_Mars.txt"
+    }
+  ]
+}
